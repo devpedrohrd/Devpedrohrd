@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hello there! I'm Pedro Henrique, a beginner student in Analysis and Systems Development at the Federal Institute of Piauí, based in Picos, Piauí. I'm eager to learn and grow in the world of technology.
 
-<!--
-**devpedrohrd/Devpedrohrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently, I'm exploring the fundamentals of software development, including programming languages like JavaScript and Python. I'm also familiarizing myself with HTML, CSS, and Git version control.
 
-Here are some ideas to get you started:
+📚 I'm enrolled at the Federal Institute of Piauí, where I'm gaining a solid foundation in software engineering principles and problem-solving techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I'm excited about opportunities to collaborate on small coding projects and contribute to open-source initiatives. I believe that hands-on experience and teamwork are vital for my learning journey.
+
+🌱 As an aspiring developer, I'm continuously expanding my knowledge by exploring online tutorials, coding challenges, and attending workshops to gain exposure to various technologies and frameworks.
+
+📫 Feel free to get in touch with me through email at [your-email@example.com]. I'm open to connecting with fellow students, mentors, or anyone interested in coding and learning together.
+
+Let's embark on this coding adventure together and make great strides in the world of software development! 🚀
