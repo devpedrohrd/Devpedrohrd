@@ -8,6 +8,6 @@
 
 🌱 As an aspiring developer, I'm continuously expanding my knowledge by exploring online tutorials, coding challenges, and attending workshops to gain exposure to various technologies and frameworks.
 
-📫 Feel free to get in touch with me through email at [your-email@example.com]. I'm open to connecting with fellow students, mentors, or anyone interested in coding and learning together.
+📫 Feel free to get in touch with me through email at pedrohrd87@gmail.com . I'm open to connecting with fellow students, mentors, or anyone interested in coding and learning together.
 
 Let's embark on this coding adventure together and make great strides in the world of software development! 🚀
